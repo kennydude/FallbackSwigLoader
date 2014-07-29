@@ -1,0 +1,11 @@
+{
+  "name": "fallbackswigloader",
+  "description" : "Swig template loader that falls back on a set of different folders",
+  "version": "1.0.0",
+  "devDependencies": {
+    "swig": "*"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
